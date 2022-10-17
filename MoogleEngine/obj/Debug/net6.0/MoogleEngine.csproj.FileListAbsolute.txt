@@ -1,0 +1,108 @@
+C:\Users\53548\Desktop\moogle-main\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Users\53548\Desktop\moogle-main\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\53548\Desktop\moogle-main\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\53548\Desktop\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+C:\Users\53548\Desktop\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53548\Desktop\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Users\53548\Desktop\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Users\53548\Desktop\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Users\53548\Desktop\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Users\53548\Desktop\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+C:\Users\53548\Desktop\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+C:\Users\53548\Desktop\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\53548\Desktop\uh\moogle-main\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Users\53548\Desktop\uh\moogle-main\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\53548\Desktop\uh\moogle-main\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\53548\Desktop\uh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+C:\Users\53548\Desktop\uh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53548\Desktop\uh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Users\53548\Desktop\uh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Users\53548\Desktop\uh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Users\53548\Desktop\uh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Users\53548\Desktop\uh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+C:\Users\53548\Desktop\uh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+C:\Users\53548\Desktop\uh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\Alex\Desktop\jggh\moogle-main\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Users\Alex\Desktop\jggh\moogle-main\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\Alex\Desktop\jggh\moogle-main\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\Alex\Desktop\jggh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\jggh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\jggh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\jggh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Users\Alex\Desktop\jggh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\jggh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Users\Alex\Desktop\jggh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+C:\Users\Alex\Desktop\jggh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+C:\Users\Alex\Desktop\jggh\moogle-main\moogle-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\53548\Desktop\Moogle!\Moogle!\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Users\53548\Desktop\Moogle!\Moogle!\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\53548\Desktop\Moogle!\Moogle!\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\53548\Desktop\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+C:\Users\53548\Desktop\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53548\Desktop\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Users\53548\Desktop\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Users\53548\Desktop\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Users\53548\Desktop\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Users\53548\Desktop\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+C:\Users\53548\Desktop\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+C:\Users\53548\Desktop\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\Alex\Desktop\Moogle!\Moogle!\Moogle!\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Users\Alex\Desktop\Moogle!\Moogle!\Moogle!\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\Alex\Desktop\Moogle!\Moogle!\Moogle!\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\Alex\Desktop\Moogle!\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Moogle!\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Moogle!\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Moogle!\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Moogle!\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Moogle!\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Users\Alex\Desktop\Moogle!\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+C:\Users\Alex\Desktop\Moogle!\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+C:\Users\Alex\Desktop\Moogle!\Moogle!\Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\Alex\Desktop\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Users\Alex\Desktop\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\Alex\Desktop\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\Alex\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Users\Alex\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Users\Alex\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+C:\Users\Alex\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+C:\Users\Alex\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\Alex\Desktop\moogle-main arreglar\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Users\Alex\Desktop\moogle-main arreglar\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\Alex\Desktop\moogle-main arreglar\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\Alex\Desktop\moogle-main arreglar\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\moogle-main arreglar\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\moogle-main arreglar\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\moogle-main arreglar\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Users\Alex\Desktop\moogle-main arreglar\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\moogle-main arreglar\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Users\Alex\Desktop\moogle-main arreglar\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+C:\Users\Alex\Desktop\moogle-main arreglar\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+C:\Users\Alex\Desktop\moogle-main arreglar\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\53548\Desktop\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Users\53548\Desktop\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\53548\Desktop\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\53548\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+C:\Users\53548\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53548\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Users\53548\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Users\53548\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Users\53548\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Users\53548\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+C:\Users\53548\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+C:\Users\53548\Desktop\moogle-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+D:\Prog\Proyecto Moogle!\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+D:\Prog\Proyecto Moogle!\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+D:\Prog\Proyecto Moogle!\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+D:\Prog\Proyecto Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+D:\Prog\Proyecto Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog\Proyecto Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+D:\Prog\Proyecto Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+D:\Prog\Proyecto Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+D:\Prog\Proyecto Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+D:\Prog\Proyecto Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+D:\Prog\Proyecto Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+D:\Prog\Proyecto Moogle!\moogle-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
